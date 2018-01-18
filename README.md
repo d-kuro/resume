@@ -53,7 +53,7 @@
   - S3
   - RDS (MySQL, Aurora)
   - SQS
-  - Lamda
+  - Lambda
   - ElastiCache (Redis)
 
 ***

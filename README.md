@@ -78,6 +78,13 @@
 | AWS Certified Developer - Associate Level | 2018/06/18 |
 | AWS Certified SysOps Administrator - Associate Level | 2018/06/27 |
 
+## 登壇 & LT
+
+| イベント名 | タイトル | 開催日 |
+| - | - | - |
+| [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/) | [Go Cloud を触ってみる / gopher-dojo-lt - Speaker Deck](https://speakerdeck.com/daikurosawa/gopher-dojo-lt) | 2018/09/18 |
+| 社内 LT | [Introduction gRPC - Speaker Deck](https://speakerdeck.com/daikurosawa/introduction-grpc) | 2018/12/14 |
+
 ## 職務経歴
 
 ### 2017/04 - : 会社名は現職の為GitHub上では非公開

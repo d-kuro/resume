@@ -41,6 +41,7 @@
 
 ## 興味 & 関心
 
+* SaaS 開発
 * Microservices の開発
   * Microservices チーム内で Dev ~ Ops までのサイクルまで回していく環境を作っていく/働くことに興味がある
 * Kubernetes 及びその周辺エコシステムを用いたアプリケーションの開発

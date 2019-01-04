@@ -10,10 +10,10 @@
 | 性別 | 男                      |
 | 生年月日 | 1995/06/20          |
 | 現住所  | 東京都台東区           |
-| Mail | kurosawa7620@gmail.com |
+| Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
-| GitHub | https://github.com/d-kuro |
-| Blog | https://d-kuro.github.io/record |
+| GitHub | [@d-kuro](https://github.com/d-kuro) |
+| Blog | [https://d-kuro.github.io/record](https://d-kuro.github.io/record) |
 
 ## 自然言語
 

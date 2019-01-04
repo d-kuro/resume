@@ -34,6 +34,7 @@
 * CSS
 * Shell Script
 * AWS
+* Docker
 
 ## 興味 & 関心
 
@@ -87,7 +88,7 @@
 
 ## 職務経歴
 
-### 2017/04 - : 会社名は現職の為GitHub上では非公開
+### 2017/04 - : 会社名はGitHub上では非公開
 
 * 職務: Web アプリケーションエンジニア
 
@@ -129,3 +130,4 @@
   * Lambda
   * ElastiCache (Redis)
 * JMeter
+* GitLab

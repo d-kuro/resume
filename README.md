@@ -101,6 +101,7 @@
 | - | - | - |
 | [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/) | [Go Cloud を触ってみる / gopher-dojo-lt - Speaker Deck](https://speakerdeck.com/daikurosawa/gopher-dojo-lt) | 2018/09/18 |
 | 社内 LT | [Introduction gRPC - Speaker Deck](https://speakerdeck.com/daikurosawa/introduction-grpc) | 2018/12/14 |
+| [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/) | [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci) | 20180131 |
 
 ## 職務経歴
 
@@ -124,6 +125,7 @@
 * 社内勉強会の企画, 開催
   * Golang もくもく会
   * 技術共有会 (週1開催)
+  * Kubernetes 完全ガイド輪読回 (週1開催)
 
 #### 使用技術
 

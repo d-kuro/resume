@@ -13,7 +13,7 @@
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |
-| Blog | [https://d-kuro.github.io/record](https://d-kuro.github.io/record) |
+| Blog | [d-kuro.github.io/record](https://d-kuro.github.io/record) </br> [あふん](https://ponde-m.hatenablog.com/) |
 
 ## 自然言語
 

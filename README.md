@@ -6,10 +6,9 @@
 
 | key  | value                  |
 | ---- | ---------------------- |
-| Name | 黒澤 大 (Dai Kurosawa) |
-| 性別 | 男                     |
-| 生年月日 | 1995/06/20         |
-| 現住所  | 東京都台東区        |
+| Name | Dai Kurosawa |
+| Sex | 男                     |
+| Age | 23 |
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |

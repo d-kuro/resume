@@ -2,17 +2,18 @@
 
 * [GitHub Pages link](https://d-kuro.github.io/resume/)
 
-## 基本情報
+## Personal Information
 
-| key  | value                  |
-| ---- | ---------------------- |
+| key  | value |
+| - | - |
 | Name | Dai Kurosawa |
-| Sex | 男                     |
+| Sex | 男 |
 | Age | 23 |
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |
-| Blog | [d-kuro.github.io/record](https://d-kuro.github.io/record) </br> [あふん](https://ponde-m.hatenablog.com/) |
+| Blog 1 | [d-kuro.github.io/record](https://d-kuro.github.io/record) |
+| Blog 2 | [あふん](https://ponde-m.hatenablog.com/) |
 
 ## 自然言語
 

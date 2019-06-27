@@ -8,12 +8,13 @@
 | - | - |
 | Name | Dai Kurosawa |
 | Sex | 男 |
-| Age | 23 |
+| Age | 24 |
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |
 | Blog 1 | [d-kuro.github.io/record](https://d-kuro.github.io/record) |
 | Blog 2 | [あふん](https://ponde-m.hatenablog.com/) |
+| Company Blog | [黒澤大 ｜ DevelopersIO](https://dev.classmethod.jp/author/kurosawa-dai/)|
 
 ## 自然言語
 
@@ -24,45 +25,36 @@
 
 ## 技術スタック
 
+* Go
+  * 主にツール, Docker コンテナで実行するアプリケーションの開発に使用
+  * プライベートで書いてるのは基本 Go
+* Kubernetes
+  * Microservice を動作させる基盤として Amazon ECS から Amazon EKS への移行作業を実施中
+  * Argo CD を用いた GitOps を実践しており, 周辺のエコシステムに関してもキャッチアップを行なっている
+  * 基本的な manifest の記述から, 必要に応じてソースコードの読み込みまでやっている
+  * clinet-go を用いた小さめのアプリケーションを開発, 今後は Operator の作成等を経験していきたい
 * Java
-  * Spring Boot
-  * Thymeleaf
-* Golang
-* JavaScript
-  * jQuery
-* Python
-* SQL (MySQL)
-* HTML
-* CSS
-* Shell Script
-* AWS
-* Docker
-* CircleCI
+  * Spring Boot を用いたアプリケーションの開発を2年程度
 
 ## 興味 & 関心
 
 * SaaS 開発
-* Microservices の開発
-  * Microservices チーム内で Dev ~ Ops までのサイクルまで回していく環境を作っていく/働くことに興味がある
-* Kubernetes 及びその周辺エコシステムを用いたアプリケーションの開発
-  * コンテナのオーケストレーションツールとして Kubernetes がデファクトになったと感じているので Amazon ECS 等よりは Kubernetes を触りたい気持ちがある
-* Golang を用いたバックエンド API の開発
-  * Gopher道場という勉強会に参加したことで Golang への魅力を感じ, 書きたい気持ちになった
-  * [参加レポート](https://dev.classmethod.jp/go/gopher-dojo/)
+* Kubernetes を用いた Microservice 環境化 SRE として組織生産性を高めるための仕組みづくりをしていきたい
+  * Microservice という複雑な環境下で Microservice のチーム単位でオーナシップを持ち Dev から Ops まで回していけるような仕組みづくり 
+  * Operator とかの開発もしていきたい
+* プログラミング言語は Go を使いたい
+  * シングルバイナリになることからのツール開発等での相性の良さ
+  * Kubernetes, Docker 等のコンテナ界隈での採用率
 
 ## 目標
 
-### 短期目標
+### 短中期目標
 
-* Kubernetes の学習
-* Golang の学習
 * OSS 活動
-
-### 中期目標
-
-* Microservices 開発者として Ops の分野の作業も行えるようになること
-* 最新技術情報などにも積極的にアンテナを張り, 理解をし, 率先して発信できる存在になること
+* Kubernetes 界隈での情報のキャッチアップ, 率先してキャッチアップした情報を発信する
+* [CKA (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/) と [CKAD (Certified Kubernetes Application Developer)](https://www.cncf.io/certification/ckad/) の取得
 * 英会話と英作文の学習をすること
+  * レアジョブを始めた
 * イベント等で LT 枠以外の登壇をすること
 
 ### 長期目標
@@ -95,24 +87,49 @@
 | AWS Certified Developer - Associate Level | 2018/06/18 |
 | AWS Certified SysOps Administrator - Associate Level | 2018/06/27 |
 
-## 登壇 & LT
+## Speaker
 
-| イベント名 | タイトル | 開催日 |
-| - | - | - |
-| [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/) | [Go Cloud を触ってみる / gopher-dojo-lt - Speaker Deck](https://speakerdeck.com/daikurosawa/gopher-dojo-lt) | 2018/09/18 |
-| 社内 LT | [Introduction gRPC - Speaker Deck](https://speakerdeck.com/daikurosawa/introduction-grpc) | 2018/12/14 |
-| [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/) | [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci) | 20180131 |
+* 20180918
+  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
+  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
+* 20181214
+  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
+* 20180131
+  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
+  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
+* 20190527
+  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
+  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+* 20190531
+  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
+  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
 
 ## 職務経歴
 
-### 2018/03 - : クラスメソッド株式会社 (現職)
+### 2019/04 - : クラスメソッド株式会社 (現職)
+
+* 職務: SRE
+
+#### Amazon ECS で稼働している Microservice 基盤を Amazon EKS への移行
+
+* EKS を用いた Kubernetes 基盤への移行作業を担当
+* monorepo + kustomize を用いて manifest を管理
+* Argo CD を用いた GitOps の実践
+  * Secret は [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) を使用して Git に commit
+  * 一部の Secret は kubesec + KMS を用いて暗号化している
+* 属人化させないためのドキュメントの記述, 開発者を巻き込んでの Kubernetes 説明会/勉強会の開催
+* ツール開発
+  * [github.com/d-kuro/restart-object](https://github.com/d-kuro/restart-object)
+  * [github.com/d-kuro/sealed-secrets-key](https://github.com/d-kuro/sealed-secrets-key)
+
+### 2018/03 - 2019/04 : クラスメソッド株式会社 (現職)
 
 * 職務: バックエンドエンジニア
 
 #### EC, CRM 向け API プラットフォーム [prismatix](https://prismatix.jp/) の開発
 
 * AWS 環境における Amazon ECS を使用した Microservices 開発
-* 複数の Microservices 開発に従事
+* Java + Spring Boot を用いた複数の Microservices 開発に従事
   * ポイントサービス
   * 外部 API を用いた決済サービス
   * Elasticsearch を用いた検索サービス
@@ -127,16 +144,6 @@
   * 技術共有会 (週1開催)
   * Kubernetes 完全ガイド輪読回 (週1開催)
 
-#### 使用技術
-
-* Java
-  * Spring Boot
-* Elasticsearch
-* Docker
-* AWS
-* GitHub
-* CircleCI
-
 ### 2017/04 - 2018/02 : 株式会社テクノモバイル
 
 * 職務: Web アプリケーションエンジニア
@@ -146,6 +153,7 @@
 * 新卒入社
 * 同タイミングで入社した社員と異なり研修期間をスキップ
 * 実装フェーズからアサイン
+* Java + Spring Boot を用いたアプリケーション開発
 * GitLab の Merge request ベースでのコードレビュー
 * Jenkins による CI/CD
 * 結合テスト段階からフロントサーバの管理役として従事
@@ -162,16 +170,3 @@
 * 外部 API を用いた決済システム, 決済を伴う新機能の開発
   * フロントエンド, サーバサイド共に担当
   * 設計, 実装を行う
-
-#### 使用技術
-
-* Java
-  * Spring Boot
-  * Thymeleaf
-* jQuery
-* HTML
-* CSS
-* Shell Script
-* AWS
-* JMeter
-* GitLab

@@ -110,7 +110,7 @@
 
 * 職務: SRE
 
-#### Amazon ECS で稼働している Microservice 基盤を Amazon EKS への移行
+#### Amazon ECS で稼働している Microservice 基盤を Amazon EKS へ移行
 
 * EKS を用いた Kubernetes 基盤への移行作業を担当
 * monorepo + kustomize を用いて manifest を管理

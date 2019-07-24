@@ -75,17 +75,17 @@
 
 ## 資格
 
-| 資格名 | 取得時期 |
+| 取得時期 | 資格名 |
 | - | - |
-| ITパスポート試験 | 2012/11 |
-| 基本情報技術者試験 | 2013/11 |
-| 応用情報技術者試験 | 2014/12 |
-| 情報セキュリティスペシャリスト試験 | 2015/06 |
-| データベーススペシャリスト試験 | 2016/06 |
-| ネットワークスペシャリスト試験 | 2016/12 |
-| AWS Certified Solutions Architect - Associate Level | 2018/05/30 |
-| AWS Certified Developer - Associate Level | 2018/06/18 |
-| AWS Certified SysOps Administrator - Associate Level | 2018/06/27 |
+| 2012/11 | ITパスポート試験 |
+| 2013/11 | 基本情報技術者試験 |
+| 2014/12 | 応用情報技術者試験 |
+| 2015/06 | 情報セキュリティスペシャリスト試験 |
+| 2016/06 | データベーススペシャリスト試験 |
+| 2016/12 | ネットワークスペシャリスト試験 |
+| 2018/05/30 | AWS Certified Solutions Architect - Associate Level |
+| 2018/06/18 | AWS Certified Developer - Associate Level |
+| 2018/06/27 | AWS Certified SysOps Administrator - Associate Level |
 
 ## Speaker
 
@@ -124,7 +124,7 @@
 
 ### 2018/03 - 2019/04 : クラスメソッド株式会社 (現職)
 
-* 職務: バックエンドエンジニア
+* 職務: ソフトウェアエンジニア
 
 #### EC, CRM 向け API プラットフォーム [prismatix](https://prismatix.jp/) の開発
 
@@ -146,7 +146,7 @@
 
 ### 2017/04 - 2018/02 : 株式会社テクノモバイル
 
-* 職務: Web アプリケーションエンジニア
+* 職務: ソフトウェアエンジニア
 
 #### 大手ECサイトの新サービス開発
 

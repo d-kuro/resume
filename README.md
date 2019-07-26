@@ -103,6 +103,9 @@
 * 20190531
   * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
   * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
+* 20190726
+  * [Kubernetes Meetup Tokyo #21 - Cloud Native CI/CD - connpass](https://k8sjp.connpass.com/event/138375/)
+  * [Argo CD 実践ガイド #k8sjp / Argo CD Practice Guide](https://speakerdeck.com/daikurosawa/argo-cd-practice-guide)
 
 ## 職務経歴
 

@@ -16,25 +16,32 @@
 | Blog 2 | [あふん](https://ponde-m.hatenablog.com/) |
 | Company Blog | [黒澤大 ｜ DevelopersIO](https://dev.classmethod.jp/author/kurosawa-dai/)|
 
-## 自然言語
+## Skill
 
-| 自然言語 | 備考                                  |
-| ------ | ------------------------------------- |
-| 日本語  | ネイティブ                              |
-| 英語    | 英語で書かれた文書を Google 翻訳や辞書を使いつつ、理解することができる |
+### Go
 
-## 技術スタック
+* CLI ツールやコンテナアプリケーションを作成することができる
+* goroutine や channel を利用し、 Go らしい並行処理を書くことができる
+* プライベートで書いてるのは基本 Go
 
-* Go
-  * 主にツール, Docker コンテナで実行するアプリケーションの開発に使用
-  * プライベートで書いてるのは基本 Go
-* Kubernetes
-  * Microservice を動作させる基盤として Amazon ECS から Amazon EKS への移行作業を実施中
-  * Argo CD を用いた GitOps を実践しており, 周辺のエコシステムに関してもキャッチアップを行なっている
-  * 基本的な manifest の記述から, 必要に応じてソースコードの読み込みまでやっている
-  * clinet-go を用いた小さめのアプリケーションを開発, 今後は Operator の作成等を経験していきたい
-* Java
-  * Spring Boot を用いたアプリケーションの開発を2年程度
+### Kubernetes
+
+* 業務ではMicroservice を動作させる基盤として Amazon ECS から Amazon EKS への移行作業を実施中
+* Argo CD を用いた GitOps を実践しており, 周辺のエコシステムに関してもキャッチアップを行なっている
+* 基本的な manifest の記述からでき、Kubernetes の基本的なアーキテクチャについて理解している
+* 必要に応じて Kubernetes 本体やエコシステムのソースコードから読み込みを行うことができる
+  * [Kubernetes で Deployment のローリングアップデートを実現する kubectl rollout restart コマンド解説 - あふん](https://ponde-m.hatenablog.com/entry/2019/06/18/010332)
+  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+* clinet-go を用いた小さめのアプリケーションを開発, 今後は Operator の作成等を経験していきたい
+
+### Java
+
+* Spring Boot を用いたアプリケーションの開発を2年程度経験
+* API を開発することができる
+
+### 英語
+
+* 英語で書かれた文書を翻訳を使いつつ、理解することができる
 
 ## 興味 & 関心
 

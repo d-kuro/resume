@@ -28,7 +28,7 @@
 
 * 業務ではMicroservice を動作させる基盤として Amazon ECS から Amazon EKS への移行作業を実施中
 * Argo CD を用いた GitOps を実践しており, 周辺のエコシステムに関してもキャッチアップを行なっている
-* 基本的な manifest の記述からでき、Kubernetes の基本的なアーキテクチャについて理解している
+* kubectl を用いた操作や Manifest の記述を行うことができ, Kubernetes の基本的なアーキテクチャについて理解している
 * 必要に応じて Kubernetes 本体やエコシステムのソースコードから読み込みを行うことができる
   * [Kubernetes で Deployment のローリングアップデートを実現する kubectl rollout restart コマンド解説 - あふん](https://ponde-m.hatenablog.com/entry/2019/06/18/010332)
   * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)

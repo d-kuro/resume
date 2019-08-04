@@ -21,7 +21,7 @@
 ### Go
 
 * CLI ツールやコンテナアプリケーションを作成することができる
-* goroutine や channel を利用し、 Go らしい並行処理を書くことができる
+* goroutine や channel を利用し, Go らしい並行処理を書くことができる
 * プライベートで書いてるのは基本 Go
 
 ### Kubernetes

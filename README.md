@@ -79,70 +79,6 @@ Twitter: https://twitter.com/ponde_m
   * シングルバイナリになることからのツール開発等での相性の良さ
   * Kubernetes, Docker 等のコンテナ界隈での採用率
 
-## 労働環境に関する希望
-
-> 📝
->
-> 現在は副業を探しており週 8 ~ 16 時間程度の間でフルリモートにて働ける会社を探しています。
-> 
-> * Go を用いたバックエンドの API 開発
-> * Kubernetes などを導入している企業での運用サポート/アドバイス/トラブルシューティング
-> 
-> などを得意としているためそこら辺に携わることができるお仕事だと強みを発揮できるかなと思っています。
-
-* 技術力向上がしやすい環境
-  * 技術力向上に対する意欲の高い人が多い
-  * モダンな技術に挑戦できる
-  * 勉強会, 企業ブログ等で外部へのアウトプットを行なっている
-  * 業務時間内でのカンファレンス参加等が認められている
-  * 書籍購入費, カンファレンス参加費, 資格試験費などがある程度補助される
-* フレックス制度
-  * ある程度自分の裁量で就業時間をコントロールでき, 勉強会などに参加しやすい環境
-
-## 資格
-
-* 2018/06/27
-  * AWS Certified SysOps Administrator - Associate Level
-* 2018/06/18
-  * AWS Certified Developer - Associate Level
-* 2018/05/30
-  * AWS Certified Solutions Architect - Associate Level
-* 2016/12
-  * ネットワークスペシャリスト試験
-* 2016/06
-  * データベーススペシャリスト試験
-* 2015/06
-  * 情報セキュリティスペシャリスト試験
-* 2014/12
-  * 応用情報技術者試験
-* 2013/11
-  * 基本情報技術者試験
-* 2012/11
-  * ITパスポート試験
-
-## Speaker
-
-* 20200129
-  * [Kubernetes Meetup Tokyo #27 - connpass](https://k8sjp.connpass.com/event/162343/)
-  * [Leader Election in Kubernetes #k8sjp - Speaker Deck](https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp)
-* 20190726
-  * [Kubernetes Meetup Tokyo #21 - Cloud Native CI/CD - connpass](https://k8sjp.connpass.com/event/138375/)
-  * [Argo CD 実践ガイド #k8sjp / Argo CD Practice Guide](https://speakerdeck.com/daikurosawa/argo-cd-practice-guide)
-* 20190531
-  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
-  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
-* 20190527
-  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
-  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
-* 20180131
-  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
-  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
-* 20181214
-  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
-* 20180918
-  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
-  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
-
 ## 職務経歴
 
 ### 2019/10 - : Quipper, Ltd
@@ -231,3 +167,67 @@ Twitter: https://twitter.com/ponde_m
 * 外部 API を用いた決済システム, 決済を伴う新機能の開発
   * フロントエンド, サーバサイド共に担当
   * 設計, 実装を行う
+
+## 労働環境に関する希望
+
+> 📝
+>
+> 現在は副業を探しており週 8 ~ 16 時間程度の間でフルリモートにて働ける会社を探しています。
+> 
+> * Go を用いたバックエンドの API 開発
+> * Kubernetes などを導入している企業での運用サポート/アドバイス/トラブルシューティング
+> 
+> などを得意としているためそこら辺に携わることができるお仕事だと強みを発揮できるかなと思っています。
+
+* 技術力向上がしやすい環境
+  * 技術力向上に対する意欲の高い人が多い
+  * モダンな技術に挑戦できる
+  * 勉強会, 企業ブログ等で外部へのアウトプットを行なっている
+  * 業務時間内でのカンファレンス参加等が認められている
+  * 書籍購入費, カンファレンス参加費, 資格試験費などがある程度補助される
+* フレックス制度
+  * ある程度自分の裁量で就業時間をコントロールでき, 勉強会などに参加しやすい環境
+
+## 資格
+
+* 2018/06/27
+  * AWS Certified SysOps Administrator - Associate Level
+* 2018/06/18
+  * AWS Certified Developer - Associate Level
+* 2018/05/30
+  * AWS Certified Solutions Architect - Associate Level
+* 2016/12
+  * ネットワークスペシャリスト試験
+* 2016/06
+  * データベーススペシャリスト試験
+* 2015/06
+  * 情報セキュリティスペシャリスト試験
+* 2014/12
+  * 応用情報技術者試験
+* 2013/11
+  * 基本情報技術者試験
+* 2012/11
+  * ITパスポート試験
+
+## Speaker
+
+* 20200129
+  * [Kubernetes Meetup Tokyo #27 - connpass](https://k8sjp.connpass.com/event/162343/)
+  * [Leader Election in Kubernetes #k8sjp - Speaker Deck](https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp)
+* 20190726
+  * [Kubernetes Meetup Tokyo #21 - Cloud Native CI/CD - connpass](https://k8sjp.connpass.com/event/138375/)
+  * [Argo CD 実践ガイド #k8sjp / Argo CD Practice Guide](https://speakerdeck.com/daikurosawa/argo-cd-practice-guide)
+* 20190531
+  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
+  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
+* 20190527
+  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
+  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+* 20180131
+  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
+  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
+* 20181214
+  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
+* 20180918
+  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
+  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)

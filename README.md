@@ -12,27 +12,53 @@
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |
-| Blog 1 | [d-kuro.github.io/record](https://d-kuro.github.io/record) |
-| Blog 2 | [あふん](https://ponde-m.hatenablog.com/) |
-| Company Blog | [黒澤大 ｜ DevelopersIO](https://dev.classmethod.jp/author/kurosawa-dai/)|
+| Blog 1 | https://d-kuro.github.io/ |
+| Blog 2 | https://ponde-m.hatenablog.com/ |
+
+## Introduction
+
+現職は Quipper という会社で SRE をやっています。
+プロダクションにて Kubernetes クラスタが動作しているのでその運用/改善などや CI/CD 基盤の構築/改善などの仕事をしています。
+
+Kubernetes については関心が強く、趣味/仕事でソースコードを読んでいたりで細かい仕様に対する理解があります。過去には Kubernetes Meetup Tokyo などで LT をしたりしました。
+
+* https://speakerdeck.com/daikurosawa/introduction-to-descheduler
+* https://speakerdeck.com/daikurosawa/argo-cd-practice-guide
+* https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp
+
+Kubernetes の上で動作させるアプリケーションについてどのようにするべきか、などの心得もあり、開発者への周知や Prodction Readiness Check などでのレビューなどを行っていたりします。
+
+SRE として働く前はソフトウェアエンジニアとして働いており、バックエンドのマイクロサービスの開発を行っていたため、バックエンドエンジニアとしての経験もあります。
+
+プログラミング言語は Go が得意で Go のお作法にしっかり乗っ取りつつ、パフォーマンス等を意識してコードを書くことができます。
+コマンドラインツールから API の設計/開発まで一通りの心得があります。
+最近では趣味仕事を通して最近は基本的に Go を書いていますが、Java/Spring Boot の経験もあります。
+
+個人では初学者向けに Go のメンターなどをやっていたりします。
+
+https://menta.work/plan/1348
+
+GitHub: https://github.com/d-kuro
+Twitter: https://twitter.com/ponde_m
 
 ## Skill
 
 ### Go
 
-* CLI ツールやコンテナアプリケーションを作成することができる
+* Go のお作法にしっかり乗っ取りつつ, パフォーマンス等を意識してコードを書くことができる
+* API や CLI ツールを作成することができる
 * goroutine や channel を利用し, Go らしい並行処理を書くことができる
-* プライベートで書いてるのは基本 Go
 
 ### Kubernetes
 
-* 業務ではMicroservice を動作させる基盤として Amazon ECS から Amazon EKS への移行作業を実施中
-* Argo CD を用いた GitOps を実践しており, 周辺のエコシステムに関してもキャッチアップを行なっている
+* 業務では Kubernetes Cluster をプロダクションで運用中
+* Argo CD を用いた GitOps など, 周辺のエコシステムに関してもキャッチアップを行なっている
 * kubectl を用いた操作や Manifest の記述を行うことができ, Kubernetes の基本的なアーキテクチャについて理解している
 * 必要に応じて Kubernetes 本体やエコシステムのソースコードから読み込みを行うことができる
   * [Kubernetes で Deployment のローリングアップデートを実現する kubectl rollout restart コマンド解説 - あふん](https://ponde-m.hatenablog.com/entry/2019/06/18/010332)
   * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
-* clinet-go を用いた小さめのアプリケーションを開発, 今後は Operator の作成等を経験していきたい
+  * [Kubernetes Leader Election in Depth - AFN Blog](https://d-kuro.github.io/posts/kubernetes-leader-election/)
+* clinet-go を用いた小さめのアプリケーションを開発を経験
 
 ### Java
 
@@ -48,28 +74,21 @@
 * SaaS 開発
 * Kubernetes を用いた Microservice 環境化 SRE として組織生産性を高めるための仕組みづくりをしていきたい
   * Microservice という複雑な環境下で Microservice のチーム単位でオーナシップを持ち Dev から Ops まで回していけるような仕組みづくり 
-  * Operator とかの開発もしていきたい
 * プログラミング言語は Go を使いたい
+  * 一番得意なプログラミング言語
   * シングルバイナリになることからのツール開発等での相性の良さ
   * Kubernetes, Docker 等のコンテナ界隈での採用率
 
-## 目標
-
-### 短中期目標
-
-* OSS 活動
-* Kubernetes 界隈での情報のキャッチアップ, 率先してキャッチアップした情報を発信する
-* [CKA (Certified Kubernetes Administrator)](https://www.cncf.io/certification/cka/) と [CKAD (Certified Kubernetes Application Developer)](https://www.cncf.io/certification/ckad/) の取得
-* 英会話と英作文の学習をすること
-  * レアジョブを始めた
-* イベント等で LT 枠以外の登壇をすること
-
-### 長期目標
-
-* 英語を用いた業務対応やカンファレンス等での英語を用いた質疑応答ができるようになること
-* リーダ職について技術だけでなくチームビルディングにおいてもバリューを出すこと
-
 ## 労働環境に関する希望
+
+> 📝
+>
+> 現在は副業を探しており週 8 ~ 16 時間程度の間でフルリモートにて働ける会社を探しています。
+> 
+> * Go を用いたバックエンドの API 開発
+> * Kubernetes などを導入している企業での運用サポート/アドバイス/トラブルシューティング
+> 
+> などを得意としているためそこら辺に携わることができるお仕事だと強みを発揮できるかなと思っています。
 
 * 技術力向上がしやすい環境
   * 技術力向上に対する意欲の高い人が多い
@@ -103,27 +122,52 @@
 
 ## Speaker
 
-* 20180918
-  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
-  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
-* 20181214
-  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
-* 20180131
-  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
-  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
-* 20190527
-  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
-  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
-* 20190531
-  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
-  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
+* 20200129
+  * [Kubernetes Meetup Tokyo #27 - connpass](https://k8sjp.connpass.com/event/162343/)
+  * [Leader Election in Kubernetes #k8sjp - Speaker Deck](https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp)
 * 20190726
   * [Kubernetes Meetup Tokyo #21 - Cloud Native CI/CD - connpass](https://k8sjp.connpass.com/event/138375/)
   * [Argo CD 実践ガイド #k8sjp / Argo CD Practice Guide](https://speakerdeck.com/daikurosawa/argo-cd-practice-guide)
+* 20190531
+  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
+  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
+* 20190527
+  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
+  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+* 20180131
+  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
+  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
+* 20181214
+  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
+* 20180918
+  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
+  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
 
 ## 職務経歴
 
-### 2019/04 - : クラスメソッド株式会社 (現職)
+### 2019/10 - : Quipper, Ltd
+
+* 職務: SRE
+
+#### Kubernetes プラットフォームの開発構築
+
+* kube-aws で構築されている Kubernetes クラスタの構築/アップグレード
+* monorepo 環境における GitOps を用いた CD 基盤構築
+* システムコンポーネントや kustomize 等のツール類のアップグレード
+* 監視設定の見直し
+* アプリケーションのリソースチューニング
+* HPA の導入
+* manifest のポリシーを記載し開発者に周知
+* 開発者への Kubernetes 周辺技術のサポート
+
+#### その他 SRE 業務
+
+* 既存の CI/CD 環境の改善
+* アラート対応
+* 新規サービス開発時の Design Doc レビュー
+* Production Readiness Check
+
+### 2019/04 - 2019/09: クラスメソッド株式会社
 
 * 職務: SRE
 

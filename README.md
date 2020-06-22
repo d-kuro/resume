@@ -8,7 +8,7 @@
 | - | - |
 | Name | Dai Kurosawa |
 | Sex | 男 |
-| Age | 24 |
+| Age | 2 |
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |

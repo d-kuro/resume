@@ -81,7 +81,7 @@ Twitter: https://twitter.com/ponde_m
 
 ## 職務経歴
 
-### 2019/10 - : Quipper, Ltd
+### 2019/10 - : Quipper, Ltd  (現職)
 
 * 職務: SRE
 
@@ -119,7 +119,7 @@ Twitter: https://twitter.com/ponde_m
   * [github.com/d-kuro/restart-object](https://github.com/d-kuro/restart-object)
   * [github.com/d-kuro/sealed-secrets-key](https://github.com/d-kuro/sealed-secrets-key)
 
-### 2018/03 - 2019/04 : クラスメソッド株式会社 (現職)
+### 2018/03 - 2019/04 : クラスメソッド株式会社
 
 * 職務: ソフトウェアエンジニア
 

@@ -211,6 +211,10 @@ Twitter: https://twitter.com/ponde_m
 
 ## Speaker
 
+
+* 20200613
+  * [KubeFest Tokyo 2020](https://k8sjp.github.io/kubefest-2020/)
+  * [Understanding CPU throttling in Kubernetes to improve application performance #k8sjp - Speaker Deck](https://speakerdeck.com/daikurosawa/understanding-cpu-throttling-in-kubernetes-to-improve-application-performance-number-k8sjp)
 * 20200129
   * [Kubernetes Meetup Tokyo #27 - connpass](https://k8sjp.connpass.com/event/162343/)
   * [Leader Election in Kubernetes #k8sjp - Speaker Deck](https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp)

@@ -1,7 +1,5 @@
 # Resume
 
-* [GitHub Pages link](https://d-kuro.github.io/resume/)
-
 ## Personal Information
 
 | key  | value |
@@ -12,6 +10,7 @@
 | Mail | [kurosawa7620@gmail.com](mailto:kurosawa7620@gmail.com) |
 | Twitter | [@ponde_m](https://twitter.com/ponde_m) |
 | GitHub | [@d-kuro](https://github.com/d-kuro) |
+| LinkedIn | [@d-kuro](https://www.linkedin.com/in/d-kuro/) |
 | Blog 1 | https://d-kuro.github.io/ |
 | Blog 2 | https://ponde-m.hatenablog.com/ |
 
@@ -20,10 +19,9 @@
 現職は Quipper という会社で SRE をやっています。
 プロダクションにて Kubernetes クラスタが動作しているのでその運用/改善などや CI/CD 基盤の構築/改善などの仕事をしています。
 
-Kubernetes については関心が強く、趣味/仕事でソースコードを読んでいたりで細かい仕様に対する理解があります。過去には Kubernetes Meetup Tokyo などで LT をしたりしました。
+Kubernetes については関心が強く、趣味/仕事でソースコードを読んでいたりで細かい仕様に対する理解があります。過去には Kubernetes のイベントにて登壇したりしました。
 
-* https://speakerdeck.com/daikurosawa/introduction-to-descheduler
-* https://speakerdeck.com/daikurosawa/argo-cd-practice-guide
+* https://speakerdeck.com/daikurosawa/understanding-cpu-throttling-in-kubernetes-to-improve-application-performance-number-k8sjp
 * https://speakerdeck.com/daikurosawa/leader-election-in-kubernetes-number-k8sjp
 
 Kubernetes の上で動作させるアプリケーションについてどのようにするべきか、などの心得もあり、開発者への周知や Prodction Readiness Check などでのレビューなどを行っていたりします。
@@ -38,8 +36,8 @@ SRE として働く前はソフトウェアエンジニアとして働いてお�
 
 https://menta.work/plan/1348
 
-GitHub: https://github.com/d-kuro
-Twitter: https://twitter.com/ponde_m
+* GitHub: https://github.com/d-kuro
+* Twitter: https://twitter.com/ponde_m
 
 ## Skill
 

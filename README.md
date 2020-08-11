@@ -188,6 +188,8 @@ https://menta.work/plan/1348
 
 ## 資格
 
+* 2020/08/08
+  * [Certified Kubernetes Administrator](https://github.com/d-kuro/resume/issues/11)
 * 2018/06/27
   * AWS Certified SysOps Administrator - Associate Level
 * 2018/06/18

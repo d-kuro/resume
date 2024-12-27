@@ -33,8 +33,6 @@ Kubernetes の上で動作させるアプリケーションについてどのよ
 
 個人では初学者向けに Go のメンターなどをやっていたりします。
 
-https://menta.work/plan/1348
-
 * GitHub: https://github.com/d-kuro
 * Twitter: https://twitter.com/ponde_m
 
